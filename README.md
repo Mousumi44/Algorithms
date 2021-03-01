@@ -16,3 +16,11 @@ This repository is my implementation of assignments and projects of COMP 7270: A
 ✅ Q3: Sorting
 
 ✅ Q4 & Q5: Recursion
+
+## Assignment 2
+✅ Q1-Q5: Time Complexity Analysis of Algorithm
+
+✅ Q6: Recurrence Relation Analysis using Recursion Tree Method
+
+✅ Q7: Recurrence Relation Analysis using Master Theorem
+
