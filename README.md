@@ -26,6 +26,6 @@ This repository is my implementation of assignments and projects of COMP 7270: A
 
 ## Assignment 3
 ✅ Q1-Q5: Dynamic Programming
-  	✔️ Matrix Chain Multiplication problem
-    ✔️ Rod Cut Problem
-    ✔️ Longest Common Subsequence Problem
+  	✔️ Matrix Chain Multiplication 
+    ✔️ Rod Cut 
+    ✔️ Longest Common Subsequence 
