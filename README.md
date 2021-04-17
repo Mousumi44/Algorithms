@@ -24,3 +24,8 @@ This repository is my implementation of assignments and projects of COMP 7270: A
 
 ✅ Q7: Recurrence Relation Analysis using Master Theorem
 
+## Assignment 3
+✅ Q1-Q5: Dynamic Programming
+  	✔️ Matrix Chain Multiplication problem
+    ✔️ Rod Cut Problem
+    ✔️ Longest Common Subsequence Problem
