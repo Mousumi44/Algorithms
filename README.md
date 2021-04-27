@@ -25,7 +25,21 @@ This repository is my implementation of assignments and projects of COMP 7270: A
 ✅ Q7: Recurrence Relation Analysis using Master Theorem
 
 ## Assignment 3
-✅ Q1-Q5: Dynamic Programming [Top 50 DP Problem](https://blog.usejournal.com/top-50-dynamic-programming-practice-problems-4208fed71aa3)
+✅ Q1-Q5: Dynamic Programming 
+
+    ✔️ [Top 50 DP Problem](https://blog.usejournal.com/top-50-dynamic-programming-practice-problems-4208fed71aa3)
+    
   	✔️ Matrix Chain Multiplication 
+    
     ✔️ Rod Cut 
+    
     ✔️ Longest Common Subsequence 
+    
+## Assignment 3
+✅ Q1-Q5: Greedy Algorithm
+    
+    ✔️ Lecture Hall Assignment Problem
+    
+    ✔️ Fractional Knapsack Problem
+    
+    ✔️ Base Station Problem
