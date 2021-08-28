@@ -33,7 +33,7 @@ This repository is my implementation of assignments and projects of COMP 7270: A
     
     ✔️ Longest Common Subsequence 
     
-## Assignment 3
+## Assignment 4
 ✅ Q1-Q5: Greedy Algorithm
     
     ✔️ Lecture Hall Assignment Problem
